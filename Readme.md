@@ -1,8 +1,4 @@
-
-Certainly! Here's a simple README.md for your project:
-
-Web Scraper for TJSP
-This project is designed to scrape data from the TJSP website, based on a list of processes provided in a CSV file. The results are then saved to an Excel file.
+This project is designed to scrape data from the TJSP website, based on a list of lawsuits provided in a CSV file. The results are then saved to an Excel file.
 
 Requirements
 Ensure you have Python installed. This project was developed using Python 3.11, but it should be compatible with Python 3.x versions.
